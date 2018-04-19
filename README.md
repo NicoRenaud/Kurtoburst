@@ -1,6 +1,6 @@
 # Kurtburst
 
-![alt-text](./AU012.png)
+![alt-text](./AU12.png)
 
 
 You should change the path of the .csv file at the end of kurtoburst.py.
